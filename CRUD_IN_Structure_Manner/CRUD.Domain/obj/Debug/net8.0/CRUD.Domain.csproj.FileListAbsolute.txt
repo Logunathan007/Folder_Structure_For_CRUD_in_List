@@ -1,0 +1,11 @@
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.deps.json
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\bin\Debug\net8.0\CRUD.Domain.pdb
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.AssemblyInfo.cs
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\refint\CRUD.Domain.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\CRUD.Domain.pdb
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Domain\obj\Debug\net8.0\ref\CRUD.Domain.dll

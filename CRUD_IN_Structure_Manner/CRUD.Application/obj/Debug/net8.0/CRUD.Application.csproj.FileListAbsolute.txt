@@ -1,0 +1,11 @@
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\bin\Debug\net8.0\CRUD.Application.deps.json
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\bin\Debug\net8.0\CRUD.Application.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\bin\Debug\net8.0\CRUD.Application.pdb
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.AssemblyInfo.cs
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\refint\CRUD.Application.dll
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\CRUD.Application.pdb
+D:\Logu\.NetApps\CRUD_IN_Structure_Manner\CRUD.Application\obj\Debug\net8.0\ref\CRUD.Application.dll

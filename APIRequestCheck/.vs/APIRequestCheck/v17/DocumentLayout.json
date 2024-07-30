@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logu\\.NetApps\\APIRequestCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|d:\\logu\\.netapps\\apirequestcheck\\requestcheck\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|solutionrelative:requestcheck\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|d:\\logu\\.netapps\\apirequestcheck\\requestcheck\\data\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|solutionrelative:requestcheck\\data\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|d:\\logu\\.netapps\\apirequestcheck\\requestcheck\\data\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|solutionrelative:requestcheck\\data\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|d:\\logu\\.netapps\\apirequestcheck\\requestcheck\\controllers\\samplerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDF72C1-1AD0-4B12-AC3C-F7F4011B545D}|RequestCheck\\RequestCheck.csproj|solutionrelative:requestcheck\\controllers\\samplerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\Operations.cs",
+              "RelativeDocumentMoniker": "RequestCheck\\Data\\Operations.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\Operations.cs",
+              "RelativeToolTip": "RequestCheck\\Data\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:05:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeList.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "RequestCheck\\Data\\EmployeeList.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\EmployeeList.cs",
+              "RelativeToolTip": "RequestCheck\\Data\\EmployeeList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:42:16.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "RequestCheck\\Data\\Employee.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Data\\Employee.cs",
+              "RelativeToolTip": "RequestCheck\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:42:02.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleRequest.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Controllers\\SampleRequest.cs",
+              "RelativeDocumentMoniker": "RequestCheck\\Controllers\\SampleRequest.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\APIRequestCheck\\RequestCheck\\Controllers\\SampleRequest.cs",
+              "RelativeToolTip": "RequestCheck\\Controllers\\SampleRequest.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwDwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:33:12.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

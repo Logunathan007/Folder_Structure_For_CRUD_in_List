@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|d:\\logu\\.netapps\\crud_in_db_api_in_structure\\crud.persistence\\dbcontexts\\makeconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|solutionrelative:crud.persistence\\dbcontexts\\makeconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D24251-9A4C-4A73-85B0-7EE4E1D15FC1}|CRUD.Service\\CRUD.Service.csproj|d:\\logu\\.netapps\\crud_in_db_api_in_structure\\crud.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D24251-9A4C-4A73-85B0-7EE4E1D15FC1}|CRUD.Service\\CRUD.Service.csproj|solutionrelative:crud.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D24251-9A4C-4A73-85B0-7EE4E1D15FC1}|CRUD.Service\\CRUD.Service.csproj|d:\\logu\\.netapps\\crud_in_db_api_in_structure\\crud.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D24251-9A4C-4A73-85B0-7EE4E1D15FC1}|CRUD.Service\\CRUD.Service.csproj|solutionrelative:crud.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|d:\\logu\\.netapps\\crud_in_db_api_in_structure\\crud.persistence\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|solutionrelative:crud.persistence\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|d:\\logu\\.netapps\\crud_in_db_api_in_structure\\crud.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD40091-0260-4B7E-8B70-06E7911F0B83}|CRUD.Persistence\\CRUD.Persistence.csproj|solutionrelative:crud.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD.Service\\appsettings.json",
+              "ToolTip": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Service\\appsettings.json",
+              "RelativeToolTip": "CRUD.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:28:26.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Service\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD.Service\\Program.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Service\\Program.cs",
+              "RelativeToolTip": "CRUD.Service\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:25:44.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeConnections.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\DBContexts\\MakeConnections.cs",
+              "RelativeDocumentMoniker": "CRUD.Persistence\\DBContexts\\MakeConnections.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\DBContexts\\MakeConnections.cs",
+              "RelativeToolTip": "CRUD.Persistence\\DBContexts\\MakeConnections.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:23:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD.Persistence\\Entities\\Student.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\Entities\\Student.cs",
+              "RelativeToolTip": "CRUD.Persistence\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:22:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "CRUD.Persistence\\Class1.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\CRUD_In_DB_API_In_Structure\\CRUD.Persistence\\Class1.cs",
+              "RelativeToolTip": "CRUD.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:21:40.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

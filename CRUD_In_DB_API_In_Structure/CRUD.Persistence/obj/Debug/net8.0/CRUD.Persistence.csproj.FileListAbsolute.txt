@@ -1,0 +1,14 @@
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\bin\Debug\net8.0\CRUD.Persistence.deps.json
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\bin\Debug\net8.0\CRUD.Persistence.runtimeconfig.json
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\bin\Debug\net8.0\CRUD.Persistence.dll
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\bin\Debug\net8.0\CRUD.Persistence.pdb
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.csproj.AssemblyReference.cache
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.AssemblyInfo.cs
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.dll
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\refint\CRUD.Persistence.dll
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.pdb
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.genruntimeconfig.cache
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\ref\CRUD.Persistence.dll

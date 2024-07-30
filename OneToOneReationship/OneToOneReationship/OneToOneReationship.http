@@ -1,0 +1,6 @@
+@OneToOneReationship_HostAddress = http://localhost:5276
+
+GET {{OneToOneReationship_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

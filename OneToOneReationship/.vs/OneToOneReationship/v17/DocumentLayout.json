@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logu\\.NetApps\\OneToOneReationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|d:\\logu\\.netapps\\onetoonereationship\\onetoonereationship\\model\\createconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|solutionrelative:onetoonereationship\\model\\createconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|d:\\logu\\.netapps\\onetoonereationship\\onetoonereationship\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|solutionrelative:onetoonereationship\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|d:\\logu\\.netapps\\onetoonereationship\\onetoonereationship\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|solutionrelative:onetoonereationship\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|d:\\logu\\.netapps\\onetoonereationship\\onetoonereationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FA07E1E-56D6-4CF9-9165-836E6F0EE449}|OneToOneReationship\\OneToOneReationship.csproj|solutionrelative:onetoonereationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\appsettings.json",
+              "RelativeDocumentMoniker": "OneToOneReationship\\appsettings.json",
+              "ToolTip": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\appsettings.json",
+              "RelativeToolTip": "OneToOneReationship\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T08:43:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\Manager.cs",
+              "RelativeDocumentMoniker": "OneToOneReationship\\Model\\Manager.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\Manager.cs",
+              "RelativeToolTip": "OneToOneReationship\\Model\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "OneToOneReationship\\Model\\Employee.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\Employee.cs",
+              "RelativeToolTip": "OneToOneReationship\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateConnection.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\CreateConnection.cs",
+              "RelativeDocumentMoniker": "OneToOneReationship\\Model\\CreateConnection.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\OneToOneReationship\\OneToOneReationship\\Model\\CreateConnection.cs",
+              "RelativeToolTip": "OneToOneReationship\\Model\\CreateConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:50.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

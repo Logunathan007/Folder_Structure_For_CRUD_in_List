@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a/ZZhDNNDCeJdG2FwBRUE51a/BMlGsKn/z9g92zJJ+U=",
+  "Source": "CheckDBConnectivity",
+  "BasePath": "_content/CheckDBConnectivity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
