@@ -12,3 +12,4 @@ D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\r
 D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.pdb
 D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.genruntimeconfig.cache
 D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\ref\CRUD.Persistence.dll
+D:\Logu\.NetApps\CRUD_In_DB_API_In_Structure\CRUD.Persistence\obj\Debug\net8.0\CRUD.Persistence.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XpEliXdhDFyPPhVbarfPBFxGjONPcTYCVaFV2db8KhE=",
+  "Source": "DBCreation.Service",
+  "BasePath": "_content/DBCreation.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

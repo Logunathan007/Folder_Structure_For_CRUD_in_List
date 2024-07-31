@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORSLib.Service", "CORSLib.Service\CORSLib.Service.csproj", "{F24E9D83-B356-4308-8DF5-965F6D664D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24E9D83-B356-4308-8DF5-965F6D664D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24E9D83-B356-4308-8DF5-965F6D664D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E9D83-B356-4308-8DF5-965F6D664D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24E9D83-B356-4308-8DF5-965F6D664D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C334863A-84C3-47A6-8347-8CDE8D04872A}
+	EndGlobalSection
+EndGlobal

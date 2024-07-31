@@ -1,0 +1,12 @@
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\bin\Debug\net8.0\DBCreation.Domain.deps.json
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\bin\Debug\net8.0\DBCreation.Domain.dll
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\bin\Debug\net8.0\DBCreation.Domain.pdb
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.AssemblyInfo.cs
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.sourcelink.json
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.dll
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\refint\DBCreation.Domain.dll
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\DBCreation.Domain.pdb
+D:\Logu\.NetApps\DBCreationCheck\DBCreation.Domain\obj\Debug\net8.0\ref\DBCreation.Domain.dll

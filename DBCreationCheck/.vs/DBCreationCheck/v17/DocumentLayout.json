@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logu\\.NetApps\\DBCreationCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Logu\\.NetApps\\Structure_DB_Creation\\DBCreation.Persistence\\DBContexts\\MakeConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C952400E-1747-4BFD-8017-169FD4FBC319}|DBCreation.Domain\\DBCreation.Domain.csproj|d:\\logu\\.netapps\\dbcreationcheck\\dbcreation.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C952400E-1747-4BFD-8017-169FD4FBC319}|DBCreation.Domain\\DBCreation.Domain.csproj|solutionrelative:dbcreation.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C98058C-4513-4B09-9943-16B1A0B7B47C}|DBCreation.Application\\DBCreation.Application.csproj|d:\\logu\\.netapps\\dbcreationcheck\\dbcreation.application\\models\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C98058C-4513-4B09-9943-16B1A0B7B47C}|DBCreation.Application\\DBCreation.Application.csproj|solutionrelative:dbcreation.application\\models\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F65B-70DE-48E6-A27D-53EBFECC91CB}|DBCreation.Service\\DBCreation.Service.csproj|d:\\logu\\.netapps\\dbcreationcheck\\dbcreation.service\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF5F65B-70DE-48E6-A27D-53EBFECC91CB}|DBCreation.Service\\DBCreation.Service.csproj|solutionrelative:dbcreation.service\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C98058C-4513-4B09-9943-16B1A0B7B47C}|DBCreation.Application\\DBCreation.Application.csproj|d:\\logu\\.netapps\\dbcreationcheck\\dbcreation.application\\services\\dmloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C98058C-4513-4B09-9943-16B1A0B7B47C}|DBCreation.Application\\DBCreation.Application.csproj|solutionrelative:dbcreation.application\\services\\dmloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F65B-70DE-48E6-A27D-53EBFECC91CB}|DBCreation.Service\\DBCreation.Service.csproj|d:\\logu\\.netapps\\dbcreationcheck\\dbcreation.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF5F65B-70DE-48E6-A27D-53EBFECC91CB}|DBCreation.Service\\DBCreation.Service.csproj|solutionrelative:dbcreation.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeConnection.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\Structure_DB_Creation\\DBCreation.Persistence\\DBContexts\\MakeConnection.cs",
+              "RelativeDocumentMoniker": "..\\Structure_DB_Creation\\DBCreation.Persistence\\DBContexts\\MakeConnection.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\Structure_DB_Creation\\DBCreation.Persistence\\DBContexts\\MakeConnection.cs",
+              "RelativeToolTip": "..\\Structure_DB_Creation\\DBCreation.Persistence\\DBContexts\\MakeConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:21:23.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DBCreation.Domain\\Entities\\Student.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "DBCreation.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:58:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Application\\Models\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "DBCreation.Application\\Models\\AutoMapperConfig.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Application\\Models\\AutoMapperConfig.cs",
+              "RelativeToolTip": "DBCreation.Application\\Models\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:27:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Service\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "DBCreation.Service\\Controllers\\StudentApiController.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Service\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "DBCreation.Service\\Controllers\\StudentApiController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:53:18.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Service\\Program.cs",
+              "RelativeDocumentMoniker": "DBCreation.Service\\Program.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Service\\Program.cs",
+              "RelativeToolTip": "DBCreation.Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DMLOperations.cs",
+              "DocumentMoniker": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Application\\Services\\DMLOperations.cs",
+              "RelativeDocumentMoniker": "DBCreation.Application\\Services\\DMLOperations.cs",
+              "ToolTip": "D:\\Logu\\.NetApps\\DBCreationCheck\\DBCreation.Application\\Services\\DMLOperations.cs",
+              "RelativeToolTip": "DBCreation.Application\\Services\\DMLOperations.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:26:20.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

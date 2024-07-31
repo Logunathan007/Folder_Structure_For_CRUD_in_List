@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "CRUD.Services\\Migrations\\20240730100123_init.cs",
               "ToolTip": "D:\\Logu\\.NetApps\\CRUD_IN_Structure_Manner\\CRUD.Services\\Migrations\\20240730100123_init.cs",
               "RelativeToolTip": "CRUD.Services\\Migrations\\20240730100123_init.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:01:25.692Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "CRUD.Services\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T09:49:04.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T09:49:04.232Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "CRUD.Services\\Model\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T09:43:43.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T09:43:43.212Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "CRUD.Services\\Model\\DbConnections.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T09:36:26.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T09:36:26.405Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "CRUD.Services\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:29:28.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T04:29:28.25Z"
             },
             {
               "$type": "Document",

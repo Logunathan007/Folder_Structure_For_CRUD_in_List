@@ -1,0 +1,6 @@
+@DBCreation.Service_HostAddress = http://localhost:5058
+
+GET {{DBCreation.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
